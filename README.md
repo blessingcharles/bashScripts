@@ -1,0 +1,2 @@
+# bashScripts
+simple bashscript automation
